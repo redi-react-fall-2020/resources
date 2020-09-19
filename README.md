@@ -6,12 +6,18 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
+- [17 September - Lifecycle Methods Exercises](#17-september---lifecycle-methods-exercises)
 - [15 September - React Components](#15-september---react-components)
 - [10 September - JSX](#10-september---jsx)
 - [03 September - More JavaScript Recap (Exercises)](#03-september---more-javascript-recap-exercises)
 - [01 September - More JavaScript Recap](#01-september---more-javascript-recap)
 - [27 August - JavaScript Recap (Exercises)](#27-august---javascript-recap-exercises)
 - [25 August - Welcome and JavaScript Recap](#25-august---welcome-and-javascript-recap)
+
+## 17 September - Lifecycle Methods Exercises
+
+- ✏️  [Homework](https://classroom.github.com/a/0Vj5TxX0)
+- 📦  [CodeSandbox](https://codesandbox.io/s/github/redi-react-fall-2020/06-exercises-lifecycle-methods?file=/src/student/Member.js)
 
 ## 15 September - React Components
 
