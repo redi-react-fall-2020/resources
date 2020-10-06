@@ -6,6 +6,7 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
+- [06 October - Concept Review](#06-october---concept-review)
 - [01 October - Component Hierarchy and Passing Props](#01-october---component-hierarchy-and-passing-props)
 - [24 September - Concept Review](#24-september---concept-review)
 - [22 September - Rendering Lists, Handling Events, Components and Props](#22-september---rendering-lists-handling-events-components-and-props)
@@ -16,6 +17,12 @@ You can also find more resources to help you on your React learning journey in [
 - [01 September - More JavaScript Recap](#01-september---more-javascript-recap)
 - [27 August - JavaScript Recap (Exercises)](#27-august---javascript-recap-exercises)
 - [25 August - Welcome and JavaScript Recap](#25-august---welcome-and-javascript-recap)
+
+## 06 October - Concept Review
+
+- 📦  [Exercise - LikeButton](https://codesandbox.io/s/redi-react-fall-202011-exercises-reusable-like-button-cyqce)
+- 📦  [Exercise - LikeButton (Solution)](https://codesandbox.io/s/redi-react-fall-202011-exercises-reusable-like-button-solution-ofuje)
+- 📦  [Exercise - Component Hierarchy](https://codesandbox.io/s/redi-react-fall-202011-exercises-component-hierarchy-p5u4c)
 
 ## 01 October - Component Hierarchy and Passing Props
 
