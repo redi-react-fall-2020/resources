@@ -6,6 +6,7 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
+- [08 October - Styling in React](#08-october---styling-in-react)
 - [06 October - Concept Review](#06-october---concept-review)
 - [01 October - Component Hierarchy and Passing Props](#01-october---component-hierarchy-and-passing-props)
 - [24 September - Concept Review](#24-september---concept-review)
@@ -18,11 +19,23 @@ You can also find more resources to help you on your React learning journey in [
 - [27 August - JavaScript Recap (Exercises)](#27-august---javascript-recap-exercises)
 - [25 August - Welcome and JavaScript Recap](#25-august---welcome-and-javascript-recap)
 
+## 08 October - Styling in React
+
+- 🖥  [Slides](https://docs.google.com/presentation/d/1GiTx2I5zAwgpoSmRlRZnKKEgqmME1aqZ_NIQUSpGl0k/edit?usp=sharing)
+- 📦  [Exercise - Inline styling](https://codesandbox.io/s/redi-react-fall-2020inline-styling-practice-rgmlz?file=/src/App.js)
+- 📦  [Exercise - Inline styling (Solution)](https://codesandbox.io/s/redi-react-fall-2020inline-styling-practice-solutions-ydhpk?file=/src/App.js)
+- 📦  [Exercise - CSS to CSS Modules](https://codesandbox.io/s/css-to-modules-exercise-231ym?file=/src/App.js)
+- 📦  [Exercise - CSS to CSS Modules (Solution)](https://codesandbox.io/s/css-modules-design-qroru)
+
+> Here are a few more resources that explain the three types of styling: [freeCodeCamp](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/#section-5-styling), [How to use styles in React](https://malcoded.com/posts/react-component-style/).
+
 ## 06 October - Concept Review
 
-- 📦  [Exercise - LikeButton](https://codesandbox.io/s/redi-react-fall-202011-exercises-reusable-like-button-cyqce)
-- 📦  [Exercise - LikeButton (Solution)](https://codesandbox.io/s/redi-react-fall-202011-exercises-reusable-like-button-solution-ofuje)
-- 📦  [Exercise - Component Hierarchy](https://codesandbox.io/s/redi-react-fall-202011-exercises-component-hierarchy-p5u4c)
+- 📹 [Recording](https://www.youtube.com/watch?v=2nuHswwdApA)
+- 📦 [Exercise - LikeButton](https://codesandbox.io/s/redi-react-fall-202011-exercises-reusable-like-button-cyqce)
+- 📦 [Exercise - LikeButton (Solution)](https://codesandbox.io/s/redi-react-fall-202011-exercises-reusable-like-button-solution-ofuje)
+- ✏️  [Homework - Component Hierarchy](https://codesandbox.io/s/redi-react-fall-202011-exercises-component-hierarchy-p5u4c)
+- No slides
 
 ## 01 October - Component Hierarchy and Passing Props
 
