@@ -26,6 +26,7 @@ You can also find more resources to help you on your React learning journey in [
 - 📦  [Exercise - Inline styling (Solution)](https://codesandbox.io/s/redi-react-fall-2020inline-styling-practice-solutions-ydhpk?file=/src/App.js)
 - 📦  [Exercise - CSS to CSS Modules](https://codesandbox.io/s/css-to-modules-exercise-231ym?file=/src/App.js)
 - 📦  [Exercise - CSS to CSS Modules (Solution)](https://codesandbox.io/s/css-modules-design-qroru)
+- 📦  [Exercise - Styled Components](https://codesandbox.io/s/css-to-modules-exercise-forked-f4f1k?file=/src/App.js)
 
 > Here are a few more resources that explain the three types of styling: [freeCodeCamp](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/#section-5-styling), [How to use styles in React](https://malcoded.com/posts/react-component-style/).
 
