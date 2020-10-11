@@ -37,6 +37,7 @@ You can also find more resources to help you on your React learning journey in [
 - 📦 [Exercise - LikeButton](https://codesandbox.io/s/redi-react-fall-202011-exercises-reusable-like-button-cyqce)
 - 📦 [Exercise - LikeButton (Solution)](https://codesandbox.io/s/redi-react-fall-202011-exercises-reusable-like-button-solution-ofuje)
 - ✏️  [Homework - Component Hierarchy](https://codesandbox.io/s/redi-react-fall-202011-exercises-component-hierarchy-p5u4c)
+- 📝 [Homework - Component Hierarchy (Solution)](https://codesandbox.io/s/redi-react-fall-202011-exercises-component-hierarchy-solution-k8b3s)
 - No slides
 
 ## 01 October - Component Hierarchy and Passing Props
