@@ -6,6 +6,8 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
+- [15 October - Routing and NPM](15-october---routing-and-npm)
+- [13 October - Styling Exercises](#13-october---styling-exercises)
 - [08 October - Styling in React](#08-october---styling-in-react)
 - [06 October - Concept Review](#06-october---concept-review)
 - [01 October - Component Hierarchy and Passing Props](#01-october---component-hierarchy-and-passing-props)
@@ -19,6 +21,21 @@ You can also find more resources to help you on your React learning journey in [
 - [27 August - JavaScript Recap (Exercises)](#27-august---javascript-recap-exercises)
 - [25 August - Welcome and JavaScript Recap](#25-august---welcome-and-javascript-recap)
 
+## 15 October - Routing and NPM
+
+- 🖥  [Slides](https://docs.google.com/presentation/d/1_81j-TsL7CM5qh5w63RDle_A5_LhUX88zPmruxXzRIw/edit?usp=sharing)
+- 📦  [NPM Exercise](https://codesandbox.io/s/loving-tharp-4httw?file=/src/App.js)
+- 🛠 [React Router](https://reactrouter.com/web/guides/quick-start)
+- 🛠 [Lodash](https://lodash.com/docs/4.17.15)
+- 🛠 [NPM](https://www.npmjs.com)
+- 📖 [Using NPM packages in your projects](https://docs.npmjs.com/using-npm-packages-in-your-projects)
+
+## 13 October - Styling Exercises
+
+- 🖥  [Slides](https://docs.google.com/presentation/d/1G9GeQfWft8EMom9NP_JALuKSY4O8zlpfJMZAFWtaAAc/edit?usp=sharing)
+- 📦  [Exercise 1](https://codesandbox.io/s/week-8-exercise-1-z4qku?file=/src/App.js)
+- 📦  [Exercise 2](https://codesandbox.io/s/week-8-exercise-2-xzg4m?file=/src/App.js)
+
 ## 08 October - Styling in React
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1GiTx2I5zAwgpoSmRlRZnKKEgqmME1aqZ_NIQUSpGl0k/edit?usp=sharing)
@@ -27,6 +44,8 @@ You can also find more resources to help you on your React learning journey in [
 - 📦  [Exercise - CSS to CSS Modules](https://codesandbox.io/s/css-to-modules-exercise-231ym?file=/src/App.js)
 - 📦  [Exercise - CSS to CSS Modules (Solution)](https://codesandbox.io/s/css-modules-design-qroru)
 - 📦  [Exercise - Styled Components](https://codesandbox.io/s/css-to-modules-exercise-forked-f4f1k?file=/src/App.js)
+- 📹 [Recording - Inline styling](https://youtu.be/U-1AnN4-OG0)
+- 📹 [Recording - CSS modules](https://youtu.be/ScVcManIZck)
 - No homework for this lesson, but please try to complete [the assignment from the last class](#06-october---concept-review).
 
 > Here are a few more resources that explain the three types of styling: [freeCodeCamp](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/#section-5-styling), [How to use styles in React](https://malcoded.com/posts/react-component-style/).
