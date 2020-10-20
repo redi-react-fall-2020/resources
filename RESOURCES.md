@@ -7,6 +7,7 @@ Here are other resources that we've shared in Slack or talked about during class
 - [ReDI Connect](https://connect.redi-school.org/)
 - [Course and Culture Agreement](https://redi-school.slack.com/archives/C0180CPBQSF/p1597662264005000)
 - [Intruction video for using GitHub Classroom](https://youtu.be/Lzh8dF-LUoI)
+- [Career support for students](https://redi-school.slack.com/files/UFABTVCMC/F01D7J1TYD7/short_career_support_students_presentation_oct_2020_advancedstudents.pdf) (presentation available in Slack)
 
 ## 🛠 Tools
 
