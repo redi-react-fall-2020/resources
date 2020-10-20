@@ -29,6 +29,7 @@ You can also find more resources to help you on your React learning journey in [
 - 🛠 [Lodash](https://lodash.com/docs/4.17.15)
 - 🛠 [NPM](https://www.npmjs.com)
 - 📖 [Using NPM packages in your projects](https://docs.npmjs.com/using-npm-packages-in-your-projects)
+- 📹 [Recording](https://redi-school-org.zoom.us/rec/share/cG54CDDNN-xCcWOnQ7Y4xXgqx5RRhE9C0eimBR8IFWCmrh63omigyLIDSCQWXVqj.RvSqpAmGx5ZDVglO?startTime=1602781029000) (passcode: `gT$pe8j=`)
 
 ## 13 October - Styling Exercises
 
