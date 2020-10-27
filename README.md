@@ -6,8 +6,8 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
-- [27 October - Data Fetching](27-october---data-fetching)
-- [15 October - Routing and NPM](15-october---routing-and-npm)
+- [27 October - Data Fetching](#27-october---data-fetching)
+- [15 October - Routing and NPM](#15-october---routing-and-npm)
 - [13 October - Styling Exercises](#13-october---styling-exercises)
 - [08 October - Styling in React](#08-october---styling-in-react)
 - [06 October - Concept Review](#06-october---concept-review)
