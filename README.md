@@ -6,6 +6,7 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
+- [27 October - Data Fetching](27-october---data-fetching)
 - [15 October - Routing and NPM](15-october---routing-and-npm)
 - [13 October - Styling Exercises](#13-october---styling-exercises)
 - [08 October - Styling in React](#08-october---styling-in-react)
@@ -20,6 +21,13 @@ You can also find more resources to help you on your React learning journey in [
 - [01 September - More JavaScript Recap](#01-september---more-javascript-recap)
 - [27 August - JavaScript Recap (Exercises)](#27-august---javascript-recap-exercises)
 - [25 August - Welcome and JavaScript Recap](#25-august---welcome-and-javascript-recap)
+
+## 27 October - Data Fetching
+
+- 🖥  [Slides](https://docs.google.com/presentation/d/1KQmWGLa1tdeWxv76PDsjb9eCSXj3k6kUH9v9CO_-YD0/edit?usp=sharing)
+- 📦  [Exercise 1](https://codesandbox.io/s/data-fetching-redischool-ubwhd?file=/src/App.js:215-252)
+- 📦  [Exercise 2](https://codesandbox.io/s/throbbing-resonance-x4tmn?file=/src/index.js)
+- 📦  [Data Fetching Homework](https://codesandbox.io/s/data-fetching-exercise-gpijm?file=/src/App.js)
 
 ## 15 October - Routing and NPM
 
