@@ -26,7 +26,7 @@ You can also find more resources to help you on your React learning journey in [
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1KQmWGLa1tdeWxv76PDsjb9eCSXj3k6kUH9v9CO_-YD0/edit?usp=sharing)
 - 📦  [Exercise 1](https://codesandbox.io/s/data-fetching-redischool-ubwhd?file=/src/App.js:215-252)
-- 📦  [Exercise 2](https://codesandbox.io/s/throbbing-resonance-x4tmn?file=/src/index.js)
+- 📦  [Exercise 2](https://codesandbox.io/s/data-fetching-x4tmn)
 - 📦  [Data Fetching Homework](https://codesandbox.io/s/data-fetching-exercise-gpijm?file=/src/App.js)
 
 ## 15 October - Routing and NPM
