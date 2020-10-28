@@ -6,6 +6,7 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
+- [29 October - useEffect](#29-october---use-effect)
 - [27 October - Data Fetching](#27-october---data-fetching)
 - [15 October - Routing and NPM](#15-october---routing-and-npm)
 - [13 October - Styling Exercises](#13-october---styling-exercises)
@@ -21,6 +22,14 @@ You can also find more resources to help you on your React learning journey in [
 - [01 September - More JavaScript Recap](#01-september---more-javascript-recap)
 - [27 August - JavaScript Recap (Exercises)](#27-august---javascript-recap-exercises)
 - [25 August - Welcome and JavaScript Recap](#25-august---welcome-and-javascript-recap)
+
+
+## 29 October - useEffect
+
+- 🖥  [Slides]()
+- 📦  [Exercise 1](https://codesandbox.io/s/use-efffect-1-qgz7z)
+- 📦  [Exercise 2](https://codesandbox.io/s/use-effect-data-fetching-exercise-f2s6w)
+- 📦  [Data Fetching Homework]()
 
 ## 27 October - Data Fetching
 
