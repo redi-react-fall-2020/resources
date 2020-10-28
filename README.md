@@ -26,7 +26,7 @@ You can also find more resources to help you on your React learning journey in [
 
 ## 29 October - useEffect
 
-- 🖥  [Slides]()
+- 🖥  [Slides](https://docs.google.com/presentation/d/1Iz5e3Q-tKhoer8l-sCgaE0AWvgSch_iUh5QAz7lPKJk/edit)
 - 📦  [Exercise 1](https://codesandbox.io/s/use-efffect-1-qgz7z)
 - 📦  [Exercise 2](https://codesandbox.io/s/use-effect-data-fetching-exercise-f2s6w)
 - 📦  [Data Fetching Homework](https://codesandbox.io/s/use-effect-homework-knl4d?file=/src/App.js) [Deployed Example](https://csb-knl4d.netlify.app/)
