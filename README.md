@@ -29,7 +29,7 @@ You can also find more resources to help you on your React learning journey in [
 - 🖥  [Slides]()
 - 📦  [Exercise 1](https://codesandbox.io/s/use-efffect-1-qgz7z)
 - 📦  [Exercise 2](https://codesandbox.io/s/use-effect-data-fetching-exercise-f2s6w)
-- 📦  [Data Fetching Homework]()
+- 📦  [Data Fetching Homework](https://codesandbox.io/s/use-effect-homework-knl4d?file=/src/App.js) [Deployed Example](https://csb-knl4d.netlify.app/)
 
 ## 27 October - Data Fetching
 
