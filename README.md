@@ -6,6 +6,7 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
+- [3 November - Context](#3-november---Context)
 - [29 October - useEffect](#29-october---use-effect)
 - [27 October - Data Fetching](#27-october---data-fetching)
 - [15 October - Routing and NPM](#15-october---routing-and-npm)
@@ -22,6 +23,16 @@ You can also find more resources to help you on your React learning journey in [
 - [01 September - More JavaScript Recap](#01-september---more-javascript-recap)
 - [27 August - JavaScript Recap (Exercises)](#27-august---javascript-recap-exercises)
 - [25 August - Welcome and JavaScript Recap](#25-august---welcome-and-javascript-recap)
+
+
+## 3 November - Context
+
+- 🖥  [Slides](https://docs.google.com/presentation/d/1jDbjjaxAHjpvXOeLSxaX4HzOXD9Vy5FMT7n_yMSo8MU/edit#slide=id.g9d90a069b6_0_349)
+- 📦  [Exercise 1](https://codesandbox.io/s/context-exercise-g24id)
+- 📦  [Exercise 2](https://codesandbox.io/s/context-exercise-with-context-68tco)
+- 📦  [Exercise 3](https://codesandbox.io/s/context-exercise-with-usecontext-68tco)
+- 📦  [Exercise 4](https://codesandbox.io/s/context-exercise-with-theme-forked-jxg5s)
+- 📦  [All Completed Exerises](https://codesandbox.io/s/context-exercise-with-theme-changer-66vi7) [Deployed Example](https://66vi7.csb.app/)
 
 
 ## 29 October - useEffect
