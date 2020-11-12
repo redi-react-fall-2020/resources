@@ -6,6 +6,7 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
+- [12 November - Forms](#3-november---forms)
 - [3 November - Context](#3-november---Context)
 - [29 October - useEffect](#29-october---use-effect)
 - [27 October - Data Fetching](#27-october---data-fetching)
@@ -23,6 +24,16 @@ You can also find more resources to help you on your React learning journey in [
 - [01 September - More JavaScript Recap](#01-september---more-javascript-recap)
 - [27 August - JavaScript Recap (Exercises)](#27-august---javascript-recap-exercises)
 - [25 August - Welcome and JavaScript Recap](#25-august---welcome-and-javascript-recap)
+
+## 12 November - Forms
+
+- 🖥  [Slides](https://docs.google.com/presentation/d/17oPD7K8jzu2iJbdJtWjJg0D52vFt70zLoq1hsXm2OY8/edit?usp=sharing)
+- 📦  [Form examples from slides](https://codesandbox.io/s/redi-react-2020-form-examples-j3v5d?file=/src/App.js)
+- 📦  [Exercise 1](https://codesandbox.io/s/redi-react-2020-form-exercise-1-gqgdi?file=/src/NameForm.js)
+- 📦  [Exercise 1 (solution)](https://codesandbox.io/s/redi-react-2020-form-exercise-1-solution-pbqbr?file=/src/NameForm.js)
+- 📦  [Exercise 2](https://codesandbox.io/s/redi-react-2020-form-exercise-2-rfrss?file=/src/NameFormWithRefs.js)
+- 📦  [Exercise 2 (solution)](https://codesandbox.io/s/redi-react-2020-form-exercise-2-solution-9fuer?file=/src/NameFormWithRefs.js)
+- ✏️  Homework: See slides! Your homework is at the end of the presentation. 
 
 
 ## 3 November - Context
