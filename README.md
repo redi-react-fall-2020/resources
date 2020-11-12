@@ -34,6 +34,8 @@ You can also find more resources to help you on your React learning journey in [
 - 📦  [Exercise 2](https://codesandbox.io/s/redi-react-2020-form-exercise-2-rfrss?file=/src/NameFormWithRefs.js)
 - 📦  [Exercise 2 (solution)](https://codesandbox.io/s/redi-react-2020-form-exercise-2-solution-9fuer?file=/src/NameFormWithRefs.js)
 - ✏️  Homework: See slides! Your homework is at the end of the presentation. 
+- 📖 [useRef documentation](https://reactjs.org/docs/hooks-reference.html#useref)
+- 📖 [Forms documentation](https://reactjs.org/docs/forms.html) (warning: uses `class` components)
 
 
 ## 3 November - Context
