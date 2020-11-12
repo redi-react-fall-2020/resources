@@ -6,7 +6,7 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
-- [12 November - Forms](#3-november---forms)
+- [12 November - Forms](#12-november---forms)
 - [3 November - Context](#3-november---Context)
 - [29 October - useEffect](#29-october---use-effect)
 - [27 October - Data Fetching](#27-october---data-fetching)
